@@ -8,7 +8,8 @@ Interactive sea-level rise visualization for China's coast.
 拖动时间滑块，你可以观察不同情景下中国沿海被淹没地区情况，以及城市受淹没面积、比例和排名的变化。
 建议使用电脑端查看网页。
 
-[在线体验](https://future-coast.pages.dev) · [项目代码](https://github.com/DFU791/Future-Coast)
+[点击链接在线体验](https://future-coast.pages.dev) 
+[项目代码](https://github.com/DFU791/Future-Coast)
 
 ## 可以体验什么
 

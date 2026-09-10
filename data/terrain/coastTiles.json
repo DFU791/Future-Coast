@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "source": {
+    "dataset": "COP30",
+    "provider": "OpenTopography",
+    "format": "GeoTIFF"
+  },
+  "bufferDegrees": 0.5,
+  "seedStrategy": "external-ocean-mask",
+  "tiles": [
+    { "id": "liaodong-west", "coreBounds": [115, 40, 120, 45], "region": "liaodong" },
+    { "id": "liaodong-east", "coreBounds": [120, 40, 125, 45], "region": "liaodong", "downloadSubdivisions": 2, "expectedSources": 7 },
+    { "id": "bohai-west", "coreBounds": [115, 35, 120, 40], "region": "bohai" },
+    { "id": "bohai-east", "coreBounds": [120, 35, 125, 40], "region": "bohai" },
+    { "id": "yellow-sea", "coreBounds": [115, 30, 120, 35], "region": "yellow-sea", "downloadSubdivisions": 2 },
+    { "id": "yangtze", "coreBounds": [120, 30, 125, 35], "region": "yangtze" },
+    { "id": "southeast-west", "coreBounds": [110, 25, 115, 30], "region": "southeast", "downloadSubdivisions": 2 },
+    { "id": "southeast-east", "coreBounds": [115, 25, 120, 30], "region": "southeast" },
+    { "id": "pearl-west", "coreBounds": [105, 20, 110, 25], "region": "pearl-river", "downloadSubdivisions": 2 },
+    { "id": "pearl-east", "coreBounds": [110, 20, 115, 25], "region": "pearl-river", "downloadSubdivisions": 2 },
+    { "id": "south-fujian", "coreBounds": [115, 20, 120, 25], "region": "southeast" },
+    { "id": "hainan-west", "coreBounds": [105, 15, 110, 20], "region": "hainan" },
+    { "id": "hainan-east", "coreBounds": [110, 15, 115, 20], "region": "hainan" },
+    { "id": "taiwan-south", "coreBounds": [120, 20, 125, 25], "region": "taiwan" },
+    { "id": "taiwan-north", "coreBounds": [120, 25, 125, 30], "region": "east-coast-strait" }
+  ]
+}

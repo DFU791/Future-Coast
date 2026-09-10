@@ -1,0 +1,350 @@
+{
+  "version": 1,
+  "tiles": [
+    {
+      "id": "liaodong-west",
+      "region": "liaodong",
+      "coreBounds": [
+        115,
+        40,
+        120,
+        45
+      ],
+      "analysisBounds": {
+        "west": 114.5,
+        "south": 39.5,
+        "east": 120.5,
+        "north": 45.5
+      },
+      "textureUrl": "/flood/national/liaodong-west-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "liaodong-east",
+      "region": "liaodong",
+      "coreBounds": [
+        120,
+        40,
+        125,
+        45
+      ],
+      "analysisBounds": {
+        "west": 119.5,
+        "south": 39.5,
+        "east": 125.5,
+        "north": 45.5
+      },
+      "textureUrl": "/flood/national/liaodong-east-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 7
+    },
+    {
+      "id": "bohai-west",
+      "region": "bohai",
+      "coreBounds": [
+        115,
+        35,
+        120,
+        40
+      ],
+      "analysisBounds": {
+        "west": 114.5,
+        "south": 34.5,
+        "east": 120.5,
+        "north": 40.5
+      },
+      "textureUrl": "/flood/national/bohai-west-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "bohai-east",
+      "region": "bohai",
+      "coreBounds": [
+        120,
+        35,
+        125,
+        40
+      ],
+      "analysisBounds": {
+        "west": 119.5,
+        "south": 34.5,
+        "east": 125.5,
+        "north": 40.5
+      },
+      "textureUrl": "/flood/national/bohai-east-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "yellow-sea",
+      "region": "yellow-sea",
+      "coreBounds": [
+        115,
+        30,
+        120,
+        35
+      ],
+      "analysisBounds": {
+        "west": 114.5,
+        "south": 29.5,
+        "east": 120.5,
+        "north": 35.5
+      },
+      "textureUrl": "/flood/national/yellow-sea-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 4
+    },
+    {
+      "id": "yangtze",
+      "region": "yangtze",
+      "coreBounds": [
+        120,
+        30,
+        125,
+        35
+      ],
+      "analysisBounds": {
+        "west": 119.5,
+        "south": 29.5,
+        "east": 125.5,
+        "north": 35.5
+      },
+      "textureUrl": "/flood/national/yangtze-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "southeast-west",
+      "region": "southeast",
+      "coreBounds": [
+        110,
+        25,
+        115,
+        30
+      ],
+      "analysisBounds": {
+        "west": 109.5,
+        "south": 24.5,
+        "east": 115.5,
+        "north": 30.5
+      },
+      "textureUrl": "/flood/national/southeast-west-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 4
+    },
+    {
+      "id": "southeast-east",
+      "region": "southeast",
+      "coreBounds": [
+        115,
+        25,
+        120,
+        30
+      ],
+      "analysisBounds": {
+        "west": 114.5,
+        "south": 24.5,
+        "east": 120.5,
+        "north": 30.5
+      },
+      "textureUrl": "/flood/national/southeast-east-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "pearl-west",
+      "region": "pearl-river",
+      "coreBounds": [
+        105,
+        20,
+        110,
+        25
+      ],
+      "analysisBounds": {
+        "west": 104.5,
+        "south": 19.5,
+        "east": 110.5,
+        "north": 25.5
+      },
+      "textureUrl": "/flood/national/pearl-west-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 4
+    },
+    {
+      "id": "pearl-east",
+      "region": "pearl-river",
+      "coreBounds": [
+        110,
+        20,
+        115,
+        25
+      ],
+      "analysisBounds": {
+        "west": 109.5,
+        "south": 19.5,
+        "east": 115.5,
+        "north": 25.5
+      },
+      "textureUrl": "/flood/national/pearl-east-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 4
+    },
+    {
+      "id": "south-fujian",
+      "region": "southeast",
+      "coreBounds": [
+        115,
+        20,
+        120,
+        25
+      ],
+      "analysisBounds": {
+        "west": 114.5,
+        "south": 19.5,
+        "east": 120.5,
+        "north": 25.5
+      },
+      "textureUrl": "/flood/national/south-fujian-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "hainan-west",
+      "region": "hainan",
+      "coreBounds": [
+        105,
+        15,
+        110,
+        20
+      ],
+      "analysisBounds": {
+        "west": 104.5,
+        "south": 14.5,
+        "east": 110.5,
+        "north": 20.5
+      },
+      "textureUrl": "/flood/national/hainan-west-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "hainan-east",
+      "region": "hainan",
+      "coreBounds": [
+        110,
+        15,
+        115,
+        20
+      ],
+      "analysisBounds": {
+        "west": 109.5,
+        "south": 14.5,
+        "east": 115.5,
+        "north": 20.5
+      },
+      "textureUrl": "/flood/national/hainan-east-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "taiwan-south",
+      "region": "taiwan",
+      "coreBounds": [
+        120,
+        20,
+        125,
+        25
+      ],
+      "analysisBounds": {
+        "west": 119.5,
+        "south": 19.5,
+        "east": 125.5,
+        "north": 25.5
+      },
+      "textureUrl": "/flood/national/taiwan-south-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "taiwan-north",
+      "region": "east-coast-strait",
+      "coreBounds": [
+        120,
+        25,
+        125,
+        30
+      ],
+      "analysisBounds": {
+        "west": 119.5,
+        "south": 24.5,
+        "east": 125.5,
+        "north": 30.5
+      },
+      "textureUrl": "/flood/national/taiwan-north-threshold-data.png",
+      "maxLevel": 10.0,
+      "textureSize": [
+        1400,
+        1400
+      ],
+      "sourceCount": 1
+    }
+  ]
+}

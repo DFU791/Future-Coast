@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --fc-bg: #F5F5F7;
+  --fc-text: #1D1D1F;
+  --fc-text-secondary: #86868B;
+  --fc-accent: #4A90D9;
+}
+
+html, body {
+  background: var(--fc-bg);
+  color: var(--fc-text);
+}
+
+/* MapLibre canvas */
+.maplibregl-canvas {
+  outline: none;
+}
+
+/* Smooth transitions */
+.fc-transition {
+  transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.city-impact-scroll {
+  overscroll-behavior: contain;
+  scrollbar-color: rgba(111, 139, 174, 0.35) transparent;
+  scrollbar-width: thin;
+}
+
+.city-impact-scroll::-webkit-scrollbar {
+  width: 5px;
+}
+
+.city-impact-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.city-impact-scroll::-webkit-scrollbar-thumb {
+  background: rgba(111, 139, 174, 0.35);
+  border-radius: 999px;
+}
+
+.province-map-label {
+  pointer-events: none;
+  user-select: none;
+  color: rgba(80, 99, 124, 0.82);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 1;
+  text-shadow:
+    0 1px 2px rgba(255, 255, 255, 0.98),
+    0 0 5px rgba(255, 255, 255, 0.92);
+  transition: opacity 180ms ease-out;
+  white-space: nowrap;
+  will-change: opacity;
+}

@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "cities": [
+    {
+      "id": "810000",
+      "name": "香港",
+      "fullName": "香港特别行政区",
+      "province": "香港特别行政区",
+      "center": [114.173355, 22.320048],
+      "boundary": "data/boundaries/hong-kong-datav-full.geojson",
+      "officialAreaKm2": 1114.57,
+      "areaYear": 2025,
+      "areaSource": "Hong Kong Lands Department"
+    },
+    {
+      "id": "330900",
+      "name": "舟山",
+      "fullName": "舟山市",
+      "province": "浙江省",
+      "center": [122.106863, 30.016028],
+      "boundary": "data/boundaries/zhoushan-datav-full.geojson",
+      "officialAreaKm2": 1440.0,
+      "areaYear": 2023,
+      "areaSource": "Zhejiang Economic Information Center"
+    },
+    {
+      "id": "440400",
+      "name": "珠海",
+      "fullName": "珠海市",
+      "province": "广东省",
+      "center": [113.553986, 22.224979],
+      "boundary": "data/boundaries/zhuhai-datav-full.geojson",
+      "officialAreaKm2": 1736.46,
+      "areaYear": 2025,
+      "areaSource": "Published municipal land area"
+    },
+    {
+      "id": "350200",
+      "name": "厦门",
+      "fullName": "厦门市",
+      "province": "福建省",
+      "center": [118.11022, 24.490474],
+      "boundary": "data/boundaries/xiamen-datav-full.geojson",
+      "officialAreaKm2": 1699.01,
+      "areaYear": 2023,
+      "areaSource": "Xiamen Municipal Government"
+    },
+    {
+      "id": "440300",
+      "name": "深圳",
+      "fullName": "深圳市",
+      "province": "广东省",
+      "center": [114.085947, 22.547],
+      "boundary": "data/boundaries/shenzhen-datav-full.geojson",
+      "officialAreaKm2": 1997.47,
+      "areaYear": 2026,
+      "areaSource": "Shenzhen Planning and Natural Resources Bureau"
+    },
+    {
+      "id": "440500",
+      "name": "汕头",
+      "fullName": "汕头市",
+      "province": "广东省",
+      "center": [116.708463, 23.37102],
+      "boundary": "data/boundaries/shantou-datav-full.geojson",
+      "officialAreaKm2": 2205.0,
+      "areaYear": 2025,
+      "areaSource": "Shantou Municipal Government"
+    },
+    {
+      "id": "450500",
+      "name": "北海",
+      "fullName": "北海市",
+      "province": "广西壮族自治区",
+      "center": [109.119254, 21.473343],
+      "boundary": "data/boundaries/beihai-datav-full.geojson",
+      "officialAreaKm2": 3337.0,
+      "areaYear": 2025,
+      "areaSource": "Published municipal land area"
+    },
+    {
+      "id": "460100",
+      "name": "海口",
+      "fullName": "海口市",
+      "province": "海南省",
+      "center": [110.33119, 20.031971],
+      "boundary": "data/boundaries/haikou-datav-full.geojson",
+      "officialAreaKm2": 2304.84,
+      "areaYear": 2025,
+      "areaSource": "Published municipal land area"
+    },
+    {
+      "id": "460200",
+      "name": "三亚",
+      "fullName": "三亚市",
+      "province": "海南省",
+      "center": [109.508268, 18.247872],
+      "boundary": "data/boundaries/sanya-datav-full.geojson",
+      "officialAreaKm2": 1921.39,
+      "areaYear": 2025,
+      "areaSource": "Sanya Territorial Spatial Planning"
+    }
+  ]
+}

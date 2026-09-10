@@ -6,9 +6,9 @@ Interactive sea-level rise visualization for China's coast.
 受今年中国多地台风尤其上海城市积水现象启发，我用Codex做了这个中国沿海受淹没风险的网页。
 预测均基于真实DEM地理高度、NASA全球海平面预测数据。
 拖动时间滑块，你可以观察不同情景下中国沿海被淹没地区情况，以及城市受淹没面积、比例和排名的变化。
-建议使用电脑端查看网页。
 
-[点击链接在线体验](https://future-coast.pages.dev) 
+建议使用电脑端查看网页：[点击这里在线体验](https://future-coast.pages.dev) 
+
 [项目代码](https://github.com/DFU791/Future-Coast)
 
 ## 可以体验什么
